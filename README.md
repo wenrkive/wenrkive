@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Eu sou [Seu Nome], um desenvolvedor(a) entusiasta apaixonado por tecnologia. Neste arquivo, você encontrará algumas informações sobre mim e meus projetos.
+Eu sou Wiene, uma desenvolvedora entusiasta apaixonada por tecnologia. Neste arquivo, você encontrará algumas informações sobre mim e meus projetos.
 
 - 🔭 Atualmente estou trabalhando no Atack como estagiária.
 - 🌱 Estou aprendendo sobre desenvolvimento web.
