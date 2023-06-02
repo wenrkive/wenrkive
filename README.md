@@ -42,7 +42,6 @@ Outras Ferramentas:
          
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/f39b0cfcbaf58fec6df144034c872eda/403f8afa359b3033-cc/s1280x1920/2f87781acd402ac1d141bee03699c524559f81f8.pnj">
   
-    ![Snake animation](https://github.com/wenrkive/wenrkive/blob/output/github-contribution-grid-snake.svg)
     
 ## Entre em Contato
 
