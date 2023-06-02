@@ -38,7 +38,6 @@ Outras Ferramentas:
   <img align="center" alt="Ane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Ane-bootstrap" height="30" width="40" 
          
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/f39b0cfcbaf58fec6df144034c872eda/403f8afa359b3033-cc/s1280x1920/2f87781acd402ac1d141bee03699c524559f81f8.pnj">
   
